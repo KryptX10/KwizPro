@@ -2,7 +2,7 @@
 
 A modern, feature-rich quiz application built with Python and Tkinter that provides an engaging learning experience across multiple subjects.
 
-![KwizPro Icon](assets/app_icon.jpeg)
+![KwizPro Icon](https://github.com/user-attachments/assets/1fb66edb-c559-4e0d-ba8c-b0eaa4a057e4)
 
 ## 🌟 Features
 
