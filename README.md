@@ -77,23 +77,23 @@ python KwizPro.py
 ## 🖼️ Screenshots
 
 ### Welcome Screen
-![Welcome Screen](screenshots/welcome-screen.png)
+![Welcome Screen](https://github.com/user-attachments/assets/1bffee13-a82f-4147-acdd-6f8e8ed368b2)
 *Enter your name to begin the quiz*
 
 ### Subject Selection
-![Subject Selection](screenshots/subject-selection.png)
+![Subject Selection](https://github.com/user-attachments/assets/27bc7fab-08dc-4470-acb0-84486bcbf1e2)
 *Choose 4 subjects from 8 available categories*
 
 ### Quiz Interface
-![Quiz Interface](screenshots/quiz-interface.png)
+![Quiz Interface](https://github.com/user-attachments/assets/4aa49aa7-ebb9-462c-a131-e71220a6c52b)
 *Answer questions with a live timer*
 
 ### Results Screen
-![Results Screen](screenshots/results.png)
+![Results Screen](https://github.com/user-attachments/assets/85fcc934-b3c9-4343-8c1b-56c37513e759)
 *View your score and grade*
 
 ### Answer Review
-![Answer Review](screenshots/answer-review.png)
+![Answer Review](https://github.com/user-attachments/assets/8ec1c21f-c6f8-4e99-8f0e-2d8643130acc)
 *Review all questions and correct answers*
 
 ## 🏗️ Project Structure
